@@ -3,5 +3,6 @@
  "useremail": "mbhattacharjee432@gmail.com",
  "userid": "mainak55512",
  "credential": "store",
+ "basebranch": "master",
  "gitIgnored": true
 }
